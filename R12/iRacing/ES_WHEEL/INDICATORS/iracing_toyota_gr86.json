@@ -1,0 +1,43 @@
+{
+    "appFirmwareVersion": "1.2.3.14",
+    "clutchPaddleMode": 2,
+    "controllerType": "steering",
+    "hardwareVersion": "RS21-D05-HW SM-CU-V03",
+    "indicatorBurstInterval": 36,
+    "indicatorDisplayMode": 0,
+    "indicatorGroupBrightness": 15,
+    "indicatorRpmRegulationMode": 1,
+    "indicatorSwitchMode": 1,
+    "localParameters": {
+        "rpmBlinkingAbsThreshold": 7250,
+        "rpmBlinkingPreThreshold": 85,
+        "rpmLowerLimit": 0,
+        "rpmUpperLimit": 7509
+    },
+    "rpmAbs": {
+        "0": 6000,
+        "1": 6000,
+        "2": 6450,
+        "3": 6450,
+        "4": 6450,
+        "5": 6450,
+        "6": 6700,
+        "7": 6700,
+        "8": 6950,
+        "9": 6950
+    },
+    "rpmPercent": {
+        "0": 75,
+        "1": 79,
+        "2": 82,
+        "3": 85,
+        "4": 87,
+        "5": 88,
+        "6": 89,
+        "7": 90,
+        "8": 92,
+        "9": 94
+    },
+    "stickMode": 0,
+    "version": "1.0"
+}
